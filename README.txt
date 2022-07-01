@@ -1,5 +1,5 @@
 #This is the README for tempus coding challenge. 
-#All relevant files and code can be found at :
+#All relevant files and code can be found at : https://github.com/zq1010/VCF-annotate.git
 #Input data provided : test_vcf_data.txt
 #Script name: vcf_process.py
 #Test dataset used : test_vcf_subset.txt - Smaller sample was used due to run time constraints arising from VEP API.
